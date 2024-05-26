@@ -1,0 +1,34 @@
+{
+  "coche": [
+    {
+      "marca": "Dacia",
+      "modelo": "Logan",
+      "color": "rojo",
+      "motor": {
+        "cilindrada": 2000,
+        "cv": 150,
+        "combustible": "gasolina"
+      }
+    },
+    {
+      "marca": "Seat",
+      "modelo": "Leon",
+      "color": "amarillo",
+      "motor": {
+        "cilindrada": 2500,
+        "cv": 200,
+        "combustible": "gasolina"
+      }
+    },
+    {
+      "marca": "Audi",
+      "modelo": "A3",
+      "color": "negro",
+      "motor": {
+        "cilindrada": 1500,
+        "cv": 90,
+        "combustible": "diesel"
+      }
+    }
+  ]
+}

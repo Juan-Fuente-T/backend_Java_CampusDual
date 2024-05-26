@@ -1,0 +1,22 @@
+Despues de descargar texto para database y descargar zip desde https://start.spring.io/;
+se edita el pom y se le añaden plugins
+
+Comandos maven (Se abre pulsando dos veces el boton Control)  (Pulsando dos veces Shydt se abre el buscados)
+mvn exec:java -Prun_database     inicia la base de datos
+mvn clean install                hace instalacion
+mvn clean install -DskipTests    hace instalacion evitando los test
+
+Los nombres de las databases no se pueden repetir
+
+La base de datos se gestiona desde DBeaver, pero necesita que esté lanzada en Spring
+
+MODELO. Despues de crear las tablas se crean las clases correspondientes, con las anotaciones @Entity y @Table(name="PRODUCTS")
+
+Se crean las DAO, que si interfaces que extienden JpaRepository public interface LibroDao extends JpaRepository<Libro, Integer> {
+} (son un poco una cara hacia la base de datos)
+
+Se crean las DTO(POJO) que son como las clases del modelo pero sin anotaciones de estas @Id, @Column...(Son un poco la cara hacia adentro de la app)
+
+Se crean los mapper,que son interfaces, que transforman las DAO en DTO y viceversa (serian un poco la puerta de entrada y salida)
+
+Se

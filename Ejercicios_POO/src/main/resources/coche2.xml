@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<coche marca="Dacia" modelo="Logan" color="rojo">
+    <motor cilindrada="2000" CV="150" combustible="gasolina"/>
+</coche>

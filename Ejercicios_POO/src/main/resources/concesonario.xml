@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<concesionario>
+    <coche>
+        <marca>Dacia</marca>
+        <modelo>Logan</modelo>
+        <color>Rojo</color>
+        <motor>
+            <cilindrada>2000</cilindrada>
+            <cv>150</cv>
+            <combustible>gasolina</combustible>
+        </motor>
+    </coche>
+    <coche>
+        <marca>Seat</marca>
+        <modelo>Leon</modelo>
+        <color>Verde</color>
+        <motor>
+            <cilindrada>2500</cilindrada>
+            <cv>180</cv>
+            <combustible>diesel</combustible>
+        </motor>
+    </coche>
+    <coche>
+        <marca>Audi</marca>
+        <modelo>a8</modelo>
+        <color>Negro</color>
+        <motor>
+            <cilindrada>2200</cilindrada>
+            <cv>160</cv>
+            <combustible>electrico</combustible>
+        </motor>
+    </coche>
+</concesionario>
