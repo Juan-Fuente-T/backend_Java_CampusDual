@@ -1,0 +1,22 @@
+{
+	"locations": [
+		{
+			"latitude": 40.416875,
+			"longitude": -3.703308,
+			"city": "Madrid",
+			"description": "PuertadelSol"
+		},
+		{
+			"latitude": 40.417438,
+			"longitude": -3.693363,
+			"city": "Madrid",
+			"description": "PaseodelPrado"
+		},
+		{
+			"latitude": 40.407015,
+			"longitude": -3.691163,
+			"city": "Madrid",
+			"description": "EstacióndeAtocha"
+		}
+	]
+}

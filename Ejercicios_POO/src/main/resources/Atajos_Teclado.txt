@@ -1,0 +1,15 @@
+Atajos de teclado en el IntelliJ
+
+Mayusc + Mayusculas (2 veces mayusculas) --> Busca ficheros, clases, carpetas, etc
+Control + e --> Muestra los ficheros de reciente acceso
+Control + d --> Duplica una línea
+Control + z --> Deshacer
+Control + y --> Rehacer --> control + shift + z
+Mayusculas + ctrl + flechas arriba o abajo --> Mueve texto arriba o abajo
+Control + tab --> Alterna entre los 2 ultimos ficheros abiertos
+Tab --> mete tabulacion
+Mayusc + Tab --> quita tabulacion
+Control + / (del teclado numerico) --> Convierte la/s lineas en comentario/s
+Control sobre el nombre de un metodo o variable --> Salta a donde este ese metodo o variable
+Control + alt + l --> Arregla la presentacion del codigo
+Control + p --> Para saber cuantas y que paremetos recibe un metodo.

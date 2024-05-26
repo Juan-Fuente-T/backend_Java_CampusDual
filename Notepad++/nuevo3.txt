@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<locations>
+	<location>
+		<latitude>40.417438</latitude>
+		<longitude>-3.703308</longitude>
+		<city>Madrid</city>
+		<description>PuertadelSol</description>
+	</location>
+	<location>
+		<latitude>40.416875</latitude>
+		<longitude>-3.693363</longitude>
+		<city>Madrid</city>
+		<description>PaseodelPrado</description>
+	</location>
+	<location>
+		<latitude>40.407015</latitude>
+		<longitude>-3.691163</longitude>
+		<city>Madrid</city>
+		<description>EstacióndeAtocha</description>
+	</location>
+</locations>

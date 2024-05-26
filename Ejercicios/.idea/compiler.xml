@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="classroom (2)" />
+        <module name="classroom (4)" />
+        <module name="classroom (15)" />
+        <module name="classroom (17)" />
+        <module name="classroom (21)" />
+        <module name="classroom (11)" />
+        <module name="classroom (23)" />
+        <module name="classroom (13)" />
+        <module name="classroom (6)" />
+        <module name="classroom (19)" />
+        <module name="classroom (8)" />
+        <module name="classroom (1)" />
+        <module name="classroom (3)" />
+        <module name="classroom" />
+        <module name="classroom (20)" />
+        <module name="classroom (14)" />
+        <module name="classroom (16)" />
+        <module name="classroom (10)" />
+        <module name="classroom (22)" />
+        <module name="classroom (12)" />
+        <module name="classroom (24)" />
+        <module name="classroom (9)" />
+        <module name="classroom (5)" />
+        <module name="classroom (18)" />
+        <module name="classroom (7)" />
+      </profile>
+    </annotationProcessing>
+  </component>
+</project>

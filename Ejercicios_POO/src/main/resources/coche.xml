@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<coche>
+    <marca>Dacia</marca>
+    <modelo>Logan</modelo>
+    <color>Rojo</color>
+    <motor>
+        <cilindrada>2000</cilindrada>
+        <cv>150</cv>
+        <combustible>gasolina</combustible>
+    </motor>
+</coche>

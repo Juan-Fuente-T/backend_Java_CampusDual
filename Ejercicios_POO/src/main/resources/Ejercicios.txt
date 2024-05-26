@@ -1,0 +1,55 @@
+/*Mostrar por pantalla los 30 primeros números pares usando primero un while y luego un for*/
+
+/*Calcular el cuadrado de los 20 primeros numeros naturales y mostrarlos por pantalla, usando while y luego for*/
+
+/*Construye un método que, recibiendo por parámetro una letra del abecedario muestre por pantalla cuántas letras
+* le faltan hasta llegar a la Z (sin contar la Ñ)*/
+
+/*Conseguir representar por pantalla lo siguiente:
+    ABCDEFGHIJKLMNOPQRSTUVWXYZ
+    BCDEFGHIJKLMNOPQRSTUVWXYZ
+    CDEFGHIJKLMNOPQRSTUVWXYZ
+    DEFGHIJKLMNOPQRSTUVWXYZ
+    EFGHIJKLMNOPQRSTUVWXYZ
+    FGHIJKLMNOPQRSTUVWXYZ
+    GHIJKLMNOPQRSTUVWXYZ
+    HIJKLMNOPQRSTUVWXYZ
+    IJKLMNOPQRSTUVWXYZ
+    JKLMNOPQRSTUVWXYZ
+    KLMNOPQRSTUVWXYZ
+    LMNOPQRSTUVWXYZ
+    MNOPQRSTUVWXYZ
+    NOPQRSTUVWXYZ
+    OPQRSTUVWXYZ
+    PQRSTUVWXYZ
+    QRSTUVWXYZ
+    RSTUVWXYZ
+    STUVWXYZ
+    TUVWXYZ
+    UVWXYZ
+    VWXYZ
+    WXYZ
+    XYZ
+    YZ
+    Z
+*/
+
+/*Crear un programa que:
+* 1º Tiene que aparecer por pantalla un mensaje de saludo con vuestro nombre
+* 2º Tiene que comprobar si vuestro usuario y contraseña son correctos
+*
+* Para ello:
+* Crear un método que reciba por parámetro un String y muestre por pantalla el saludo
+* y vuestro nombe
+*
+* Crear un método que recibiendo por parámetros dos String, compruebe que el usuario
+* es vuestro nombre y la contraseña es la vuestra (ojo a donde creais las variables)
+*
+* Mostrar por pantalla un mensaje que indique si el usuaro y la contraseña son correctos.
+* Un mensaje por cada campo (uno para user, otro para pass).
+*
+* No se pide al usuario que introduzca datos, sólo creais variables y las pasáis a los métodos.
+* Y en ellos se hacen las comprobaciones
+*
+* Cread un main() y desde él llamada a cada método.
+* */
